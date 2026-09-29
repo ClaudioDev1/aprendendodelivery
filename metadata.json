@@ -1,0 +1,8 @@
+{
+  "name": "Aprendendo Delivery",
+  "description": "Plataforma líder em capacitação, tecnologia e estratégias para criar, gerir e escalar negócios de delivery e entregas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
